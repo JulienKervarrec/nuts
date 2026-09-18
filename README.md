@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à les spécifications des ecash chaumiens Cashu et leurs échanges avec les monnaies Lightning est disponible dans [docs/fr/](docs/fr/).
+
 # Cashu NUTs (Notation, Usage, and Terminology)
 
 These documents each specify parts of the Cashu protocol. Read the specifications for the legacy API [here](https://github.com/cashubtc/nuts/tree/74f26b81b6617db710fa1081eebc0c7203711213).
