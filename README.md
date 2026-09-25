@@ -1,6 +1,6 @@
 ## Parcours français
 
-Un parcours en quatre chapitres consacré à les spécifications des ecash chaumiens Cashu et leurs échanges avec les monnaies Lightning est disponible dans [docs/fr/](docs/fr/).
+Un parcours en trois chapitres consacré aux spécifications des ecash chaumiens Cashu et à leurs échanges avec les monnaies Lightning est disponible dans [docs/fr/](docs/fr/README.md).
 
 # Cashu NUTs (Notation, Usage, and Terminology)
 
