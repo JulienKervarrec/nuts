@@ -9,4 +9,4 @@ Les appels croisés exigent de vérifier l’identité de l’émetteur et la pr
 Les consommateurs doivent distinguer une valeur proposée, une valeur validée et une valeur finalisée.
 La documentation du dépôt précise les conventions nécessaires aux clients et opérateurs.
 
-[Chapitre suivant : limites et vérification](04-limites-verification.md)
+Fin du parcours. Retour au [sommaire](README.md).
